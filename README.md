@@ -1,16 +1,8 @@
 # 🌟 Добро пожаловать в мой профиль! 🌟
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=36BCF7&center=true&vCenter=true&width=940&lines=Young+Developer;Creative+Coder;Tech+Enthusiast" alt="Typing SVG" />
-</div>
-
 ---
 
 ## 🚀 Обо мне
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Приветствую!+Я+молодой+разработчик+с+страстью+к+технологиям." alt="Intro" />
-</div>
 
 Приветствую! Я молодой разработчик, увлечённый миром технологий. Люблю создавать полезные инструменты и экспериментировать с кодом. Особенно интересуюсь Minecraft серверами и разработкой ботов. Всегда рад обсудить идеи и поделиться опытом!
 
@@ -77,10 +69,6 @@
 
 ## 🎯 Интересы и хобби
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2500&pause=500&color=10B981&center=true&vCenter=true&width=500&lines=Minecraft+Server+Expert;Bot+Creator;Web+Developer;Linux+Enthusiast" alt="Interests" />
-</div>
-
 - 🎮 **Minecraft**: Эксперт по серверам и моддингу
 - 🤖 **Боты и автоматизация**: Создание полезных Telegram-ботов
 - 🌐 **Веб-разработка**: Построение интерактивных сайтов
@@ -103,12 +91,6 @@
   <a href="mailto:contact@kusokmedi.lat">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
 
 ---

@@ -1,54 +1,137 @@
-# 👋 Привет! Я KusokMedi
+# 👋 Добро пожаловать в мой профиль!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=36BCF7&center=true&vCenter=true&width=940&lines=Школьник+и+Разработчик;Minecraft+Серверный+Эксперт;Люблю+Программировать" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=36BCF7&center=true&vCenter=true&width=940&lines=Young+Developer;Creative+Coder;Tech+Enthusiast" alt="Typing SVG" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding GIF"/>
 </div>
 
 ## 🚀 Обо мне
 
-Привет! Я школьник, который увлекается программированием и всем интересным в мире технологий. Люблю разбираться в Minecraft серверах и создавать полезные инструменты. Всегда готов поделиться знаниями о том, что умею!
+Приветствую! Я молодой разработчик, увлечённый миром технологий. Люблю создавать полезные инструменты и экспериментировать с кодом. Особенно интересуюсь Minecraft серверами и разработкой ботов. Всегда рад обсудить идеи и поделиться опытом!
 
-- 🔭 Сейчас работаю над: школьными проектами и личными идеями
-- 🌱 Изучаю: ничего конкретного, но постоянно экспериментирую
-- 👯 Ищу коллаборацию над: пока ни над чем, но открыт к идеям
-- 💬 Спросите меня о: Minecraft серверах и моих навыках
-- 📫 Как связаться: Telegram [@kusokmedi52](https://t.me/kusokmedi52), Discord [discord.kusokmedi.lat](https://discord.kusokmedi.lat)
-- ⚡ Забавный факт: Я создаю ботов и инструменты для повседневного использования!
+### 🌟 Ключевые факты:
+- 🔭 Сейчас работаю над: личными проектами и экспериментами
+- 🌱 Постоянно изучаю: новые технологии и подходы
+- 💬 Готов обсудить: Minecraft сервера, программирование и мои проекты
+- 📫 Связаться: [Telegram](https://t.me/kusokmedi52) | [Discord](https://discord.kusokmedi.lat)
+- ⚡ Люблю: создавать ботов и веб-инструменты для повседневного использования
 
-## 🛠️ Мои навыки
+---
+
+## 🛠️ Технический стек
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" />
+        <br>Python
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" />
+        <br>JavaScript
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/html5-icon.svg" alt="HTML5" width="48" height="48" />
+        <br>HTML5
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/css3-icon.svg" alt="CSS3" width="48" height="48" />
+        <br>CSS3
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/bash-icon.svg" alt="Bash" width="48" height="48" />
+        <br>Bash
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/linux-icon.svg" alt="Linux" width="48" height="48" />
+        <br>Linux
+      </td>
+    </tr>
+  </table>
 </div>
 
-## 📈 GitHub Статистика
+---
+
+## 📊 Статистика GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kusokmedi&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kusokmedi&layout=compact&langs_count=7&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kusokmedi&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kusokmedi&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
-## 🌟 Лучшие проекты
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kusokmedi&theme=radical" alt="GitHub Streak" />
+</div>
 
-- **[kusokmedi.lat](https://kusokmedi.lat)** - Мой личный сайт
-- **[AnonSpeakKM Bot](https://t.me/AnonSpeakKM_bot)** - Бот для анонимных сообщений в Telegram
-- **[KusokMediSaveBot](https://t.me/KusokMediSaveBot)** - Бот для скачивания видео
-- **[Translit](https://kusokmedi.github.io/translit/)** - Инструмент для транслитерации текста
+---
 
-## 📫 Связаться со мной
+## 🌟 Избранные проекты
 
 <div align="center">
-  <a href="https://t.me/kusokmedi52"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-  <a href="https://discord.kusokmedi.lat"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+  <a href="https://kusokmedi.lat">
+    <img src="https://img.shields.io/badge/🌐%20My%20Website-kusokmedi.lat-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white" alt="Website"/>
+  </a>
+  <a href="https://t.me/AnonSpeakKM_bot">
+    <img src="https://img.shields.io/badge/🤖%20AnonSpeak%20Bot-Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Anon Bot"/>
+  </a>
+  <a href="https://t.me/KusokMediSaveBot">
+    <img src="https://img.shields.io/badge/📥%20Video%20Downloader%20Bot-Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Save Bot"/>
+  </a>
+  <a href="https://kusokmedi.github.io/translit/">
+    <img src="https://img.shields.io/badge/🔤%20Translit%20Tool-GitHub%20Pages-181717?style=for-the-badge&logo=github&logoColor=white" alt="Translit"/>
+  </a>
+</div>
+
+### 📋 Подробности проектов:
+- **🌐 [kusokmedi.lat](https://kusokmedi.lat)** - Личный веб-сайт с портфолио и полезными ресурсами
+- **🤖 [AnonSpeakKM Bot](https://t.me/AnonSpeakKM_bot)** - Telegram-бот для отправки анонимных сообщений
+- **📥 [KusokMediSaveBot](https://t.me/KusokMediSaveBot)** - Бот для скачивания видео из различных источников
+- **🔤 [Translit Tool](https://kusokmedi.github.io/translit/)** - Онлайн-инструмент для транслитерации текста
+
+---
+
+## 🎯 Интересы и хобби
+
+- 🎮 **Minecraft**: Эксперт по серверам и моддингу
+- 🤖 **Боты и автоматизация**: Создание полезных Telegram-ботов
+- 🌐 **Веб-разработка**: Построение интерактивных сайтов
+- 🐧 **Linux**: Работа с командной строкой и системами
+
+---
+
+## 📫 Свяжитесь со мной
+
+<div align="center">
+  <a href="https://t.me/kusokmedi52">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="https://discord.kusokmedi.lat">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="https://github.com/kusokmedi">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:contact@kusokmedi.lat">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </div>
 
 ---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=kusokmedi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <br>
+  <em>Спасибо за посещение! 😊</em>
 </div>

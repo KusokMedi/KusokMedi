@@ -1,4 +1,4 @@
-# 👋 Добро пожаловать в мой профиль!
+# 🌟 Добро пожаловать в мой профиль! 🌟
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=36BCF7&center=true&vCenter=true&width=940&lines=Young+Developer;Creative+Coder;Tech+Enthusiast" alt="Typing SVG" />
@@ -6,54 +6,32 @@
 
 ---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding GIF"/>
-</div>
-
 ## 🚀 Обо мне
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Приветствую!+Я+молодой+разработчик+с+страстью+к+технологиям." alt="Intro" />
+</div>
 
 Приветствую! Я молодой разработчик, увлечённый миром технологий. Люблю создавать полезные инструменты и экспериментировать с кодом. Особенно интересуюсь Minecraft серверами и разработкой ботов. Всегда рад обсудить идеи и поделиться опытом!
 
-### 🌟 Ключевые факты:
-- 🔭 Сейчас работаю над: личными проектами и экспериментами
-- 🌱 Постоянно изучаю: новые технологии и подходы
-- 💬 Готов обсудить: Minecraft сервера, программирование и мои проекты
-- 📫 Связаться: [Telegram](https://t.me/kusokmedi52) | [Discord](https://discord.kusokmedi.lat)
-- ⚡ Люблю: создавать ботов и веб-инструменты для повседневного использования
+### ✨ Ключевые факты:
+- 🔭 **Работаю над:** личными проектами и экспериментами
+- 🌱 **Изучаю:** новые технологии и подходы
+- 💬 **Обсудим:** Minecraft сервера, программирование и мои проекты
+- 📫 **Связаться:** [Telegram](https://t.me/kusokmedi52) | [Discord](https://discord.kusokmedi.lat)
+- ⚡ **Люблю:** создавать ботов и веб-инструменты
 
 ---
 
 ## 🛠️ Технический стек
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" />
-        <br>Python
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" />
-        <br>JavaScript
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/html5-icon.svg" alt="HTML5" width="48" height="48" />
-        <br>HTML5
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/css3-icon.svg" alt="CSS3" width="48" height="48" />
-        <br>CSS3
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/bash-icon.svg" alt="Bash" width="48" height="48" />
-        <br>Bash
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/linux-icon.svg" alt="Linux" width="48" height="48" />
-        <br>Linux
-      </td>
-    </tr>
-  </table>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </div>
 
 ---
@@ -61,12 +39,12 @@
 ## 📊 Статистика GitHub
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kusokmedi&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kusokmedi&layout=compact&langs_count=8&theme=radical"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=kusokmedi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kusokmedi&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kusokmedi&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kusokmedi&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
@@ -75,16 +53,17 @@
 
 <div align="center">
   <a href="https://kusokmedi.lat">
-    <img src="https://img.shields.io/badge/🌐%20My%20Website-kusokmedi.lat-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white" alt="Website"/>
+    <img src="https://img.shields.io/badge/🌐_My_Website-kusokmedi.lat-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white" alt="Website"/>
   </a>
   <a href="https://t.me/AnonSpeakKM_bot">
-    <img src="https://img.shields.io/badge/🤖%20AnonSpeak%20Bot-Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Anon Bot"/>
+    <img src="https://img.shields.io/badge/🤖_AnonSpeak_Bot-Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Anon Bot"/>
   </a>
+  <br>
   <a href="https://t.me/KusokMediSaveBot">
-    <img src="https://img.shields.io/badge/📥%20Video%20Downloader%20Bot-Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Save Bot"/>
+    <img src="https://img.shields.io/badge/📥_Video_Downloader_Bot-Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Save Bot"/>
   </a>
   <a href="https://kusokmedi.github.io/translit/">
-    <img src="https://img.shields.io/badge/🔤%20Translit%20Tool-GitHub%20Pages-181717?style=for-the-badge&logo=github&logoColor=white" alt="Translit"/>
+    <img src="https://img.shields.io/badge/🔤_Translit_Tool-GitHub_Pages-181717?style=for-the-badge&logo=github&logoColor=white" alt="Translit"/>
   </a>
 </div>
 
@@ -97,6 +76,10 @@
 ---
 
 ## 🎯 Интересы и хобби
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2500&pause=500&color=10B981&center=true&vCenter=true&width=500&lines=Minecraft+Server+Expert;Bot+Creator;Web+Developer;Linux+Enthusiast" alt="Interests" />
+</div>
 
 - 🎮 **Minecraft**: Эксперт по серверам и моддингу
 - 🤖 **Боты и автоматизация**: Создание полезных Telegram-ботов
@@ -125,7 +108,7 @@
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
 
 ---
@@ -133,5 +116,5 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=kusokmedi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   <br>
-  <em>Спасибо за посещение! 😊</em>
+  <em>💫 Спасибо за посещение! 😊</em>
 </div>

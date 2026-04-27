@@ -1,19 +1,15 @@
 # 🌟 Добро пожаловать в мой профиль! 🌟
 
----
-
 ## 🚀 Обо мне
 
 Приветствую! Я молодой разработчик, увлечённый миром технологий. Люблю создавать полезные инструменты и экспериментировать с кодом. Особенно интересуюсь Minecraft серверами и разработкой ботов. Всегда рад обсудить идеи и поделиться опытом!
 
 ### ✨ Ключевые факты:
-- 🔭 **Работаю над:** личными проектами и экспериментами
-- 🌱 **Изучаю:** новые технологии и подходы
-- 💬 **Обсудим:** Minecraft сервера, программирование и мои проекты
-- 📫 **Связаться:** [Telegram](https://t.me/kusokmedi52) | [Discord](https://discord.kusokmedi.lat)
-- ⚡ **Люблю:** создавать ботов и веб-инструменты
-
----
+- 🔭 Работаю над: личными проектами и экспериментами
+- 🌱 Изучаю: новые технологии и подходы
+- 💬 Обсудим: Minecraft сервера, программирование и мои проекты
+- 📫 Связаться: [Telegram](https://t.me/kusokmedi52) | [Discord](https://discord.kusokmedi.lat)
+- ⚡ Люблю: создавать ботов и веб-инструменты
 
 ## 🛠️ Технический стек
 
@@ -26,8 +22,6 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </div>
 
----
-
 ## 📊 Статистика GitHub
 
 <div align="center">
@@ -38,8 +32,6 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kusokmedi&theme=tokyonight" alt="GitHub Streak" />
 </div>
-
----
 
 ## 🌟 Избранные проекты
 
@@ -65,16 +57,12 @@
 - **📥 [KusokMediSaveBot](https://t.me/KusokMediSaveBot)** - Бот для скачивания видео из различных источников
 - **🔤 [Translit Tool](https://kusokmedi.github.io/translit/)** - Онлайн-инструмент для транслитерации текста
 
----
-
 ## 🎯 Интересы и хобби
 
 - 🎮 **Minecraft**: Эксперт по серверам и моддингу
 - 🤖 **Боты и автоматизация**: Создание полезных Telegram-ботов
 - 🌐 **Веб-разработка**: Построение интерактивных сайтов
 - 🐧 **Linux**: Работа с командной строкой и системами
-
----
 
 ## 📫 Свяжитесь со мной
 
@@ -92,8 +80,6 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
-
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=kusokmedi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />

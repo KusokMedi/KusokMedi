@@ -50,6 +50,10 @@
   <a href="https://kusokmedi.github.io/translit/">
     <img src="https://img.shields.io/badge/🔤_Translit_Tool-GitHub_Pages-181717?style=for-the-badge&logo=github&logoColor=white" alt="Translit"/>
   </a>
+  <br>
+  <a href="https://github.com/KusokMedi/DonDuration">
+    <img src="https://img.shields.io/badge/⏱️_DonDuration-Spigot_Plugin-FF9800?style=for-the-badge&logo=minecraft&logoColor=white" alt="DonDuration"/>
+  </a>
 </div>
 
 ### 📋 Подробности проектов:

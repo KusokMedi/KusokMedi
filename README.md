@@ -57,6 +57,7 @@
 - **🤖 [AnonSpeakKM Bot](https://t.me/AnonSpeakKM_bot)** - Telegram-бот для отправки анонимных сообщений
 - **📥 [KusokMediSaveBot](https://t.me/KusokMediSaveBot)** - Бот для скачивания видео из различных источников
 - **🔤 [Translit Tool](https://kusokmedi.github.io/translit/)** - Онлайн-инструмент для транслитерации текста
+- **⏱️ [DonDuration](https://github.com/KusokMedi/DonDuration)** - Spigot плагин для отображения времени донат-статуса через PlaceholderAPI
 
 ## 🎯 Интересы и хобби
 

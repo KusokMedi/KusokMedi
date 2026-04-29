@@ -76,7 +76,7 @@
   <a href="https://github.com/kusokmedi">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:contact@kusokmedi.lat">
+  <a href="mailto:matvejs.stepanovs116@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>

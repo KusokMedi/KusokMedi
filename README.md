@@ -92,13 +92,13 @@
   </a>
   <br>
   <sub>Там всё описано гораздо подробнее - проекты, стек, контакты и многое другое</sub>
-  <br><br>
 </div>
 
 ---
 
 <div align="center">
   <em>💫 Спасибо что прочитали до конца! 😊</em>
-  <br>
+  <br><br>
+  <br><br>
   <img src="https://komarev.com/ghpvc/?username=kusokmedi&label=Profile%20views&color=0e75b6&style=flat" />
 </div>
